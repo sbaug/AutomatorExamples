@@ -1,7 +1,6 @@
 # AutomatorExamples
 
 ## 1st example.
-This automator script will simply notify you of your current IP address.
+This automator script will simply notify you of your current IP address and put the IP address on your clipboard ready to paste where ever you like.
 
-![automator screen shot](https://raw.githubusercontent.com/sbaug/AutomatorExamples/master/Screen-Shot-2016-07-03-at-12.34.36-PM.png)
-
+![automator screen shot](https://raw.githubusercontent.com/sbaug/AutomatorExamples/master/Automator-Screen-Shot-myip.png)
